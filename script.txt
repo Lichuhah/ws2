@@ -1,0 +1,18 @@
+CREATE TABLE [dbo].[Lessons](
+	[idLesson] [int] IDENTITY(1,1) NOT NULL,
+	[name] [nvarchar](50) NULL
+) ON [PRIMARY]
+GO
+
+CREATE TABLE [dbo].[Teachers](
+	[idTeacher] [int] IDENTITY(1,1) NOT NULL,
+	[firstname] [nvarchar](50) NULL,
+	[lastname] [nvarchar](50) NULL,
+) ON [PRIMARY]
+GO
+
+CREATE TABLE [dbo].[Teachers_Lessons](
+	[idTeacher] [int]  NOT NULL,
+	[idLesson] [int]  NOT NULL
+) ON [PRIMARY]
+GO
