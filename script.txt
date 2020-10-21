@@ -16,3 +16,11 @@ CREATE TABLE [dbo].[Teachers_Lessons](
 	[idLesson] [int]  NOT NULL
 ) ON [PRIMARY]
 GO
+
+CREATE TABLE [dbo].[Students](
+	[idStudent] [int]  NOT NULL,
+	[name] [nvarchar][50]  NOT NULL
+) ON [PRIMARY]
+GO
+
+
