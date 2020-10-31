@@ -1,0 +1,10 @@
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\bin\Debug\WindowsFormsforsoctets.exe.config
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\bin\Debug\WindowsFormsforsoctets.exe
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\bin\Debug\WindowsFormsforsoctets.pdb
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\obj\Debug\WindowsFormsforsoctets.csprojAssemblyReference.cache
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\obj\Debug\WindowsFormsforsoctets.Form1.resources
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\obj\Debug\WindowsFormsforsoctets.Properties.Resources.resources
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\obj\Debug\WindowsFormsforsoctets.csproj.GenerateResource.cache
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\obj\Debug\WindowsFormsforsoctets.csproj.CoreCompileInputs.cache
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\obj\Debug\WindowsFormsforsoctets.exe
+D:\vsproject\WindowsFormsforsoctets\WindowsFormsforsoctets\obj\Debug\WindowsFormsforsoctets.pdb

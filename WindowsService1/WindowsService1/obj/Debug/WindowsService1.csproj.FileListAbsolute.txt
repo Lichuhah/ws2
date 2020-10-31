@@ -1,0 +1,16 @@
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Buffers.dll
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Memory.dll
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Numerics.Vectors.dll
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Buffers.xml
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Memory.xml
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Numerics.Vectors.xml
+D:\vsproject\WindowsService1\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\vsproject\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+D:\vsproject\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\vsproject\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+D:\vsproject\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\vsproject\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
